@@ -13,9 +13,10 @@ table {
 
 table img {
     width: 200px;
-    height: 150px;
+    height: auto;
     padding: 10px;
     border: solid 3px blue;
+    
 }
 
 table, th, td {
